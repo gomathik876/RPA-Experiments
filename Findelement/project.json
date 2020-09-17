@@ -1,6 +1,6 @@
 {
-  "name": "NotepadRecording",
-  "description": "Desktop recording for notepad application",
+  "name": "Findelement",
+  "description": "This bot is used to find a particular element & checks whether the element exists on the screen or not.",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.8.6]",
